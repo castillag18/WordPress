@@ -1,0 +1,1289 @@
+# Translation of Plugins - Speed Booster Pack ⚡ PageSpeed Optimization Suite - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Speed Booster Pack ⚡ PageSpeed Optimization Suite - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-02 05:54:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Speed Booster Pack ⚡ PageSpeed Optimization Suite - Stable (latest release)\n"
+
+#: includes/classes/class-sbp-advisor.php:47
+msgid "Curl is not active"
+msgstr "cURL no está activo"
+
+#: admin/class-speed-booster-pack-admin.php:1138
+msgid "Enable this if you want featured images to be preloaded."
+msgstr "Actívalo si quieres precargar las imágenes destacadas."
+
+#: admin/class-speed-booster-pack-admin.php:1137
+msgid "Preload featured images."
+msgstr "Precargar las imágenes destacadas."
+
+#: admin/class-speed-booster-pack-admin.php:451
+msgid "Roles to disable %s features"
+msgstr "Perfiles para desactivar las características de %s"
+
+#: includes/classes/class-sbp-wp-admin.php:340
+msgid "%1$s's experimental feature, %2$s, is enabled. You will get 100%% PageSpeed Insights scores in all PageSpeed tests, but SEO rankings are calculated by Real User Monitoring (RUM) in all search engines. %2$s only proves that it's easy to manipulate PageSpeed Insights and nothing else. Please don't keep this feature enabled on production websites!"
+msgstr "La característica experimental de %1$s, %2$s, está activada. Obtendrás un 100%% de puntuaciones de PageSpeed Insights en todas las pruebas de PageSpeed, pero las clasificaciones de SEO se calculan mediante el seguimiento real de usuarios (RUM) en todos los motores de búsqueda. %2$s solo demuestra que es fácil manipular PageSpeed Insights y nada más. Por favor, ¡no mantengas activada esta característica en webs de producción!"
+
+#: includes/classes/class-sbp-advisor.php:71
+msgid "You're using and old version of PHP. For best performance, you should upgrade PHP to version 7.3 or above."
+msgstr "Estás usando una versión antigua de PHP. Para un mejor rendimiento, deberías actualizar PHP a la versión 7.3 o superior."
+
+#: includes/classes/class-sbp-advisor.php:56
+msgid "You're using HTTP/1.1. For best performance, you should upgrade to HTTP/2 or, if possible, HTTP/3."
+msgstr "Estás usando HTTP/1.1. Para un mejor rendimiento, deberías actualizar a HTTP/2 o, si es posible, a HTTP/3."
+
+#: admin/class-speed-booster-pack-admin.php:1508
+msgid "Move JS to footer for this content"
+msgstr "Mover el JS al pie de página para este contenido"
+
+#: admin/class-speed-booster-pack-admin.php:1475
+#: admin/class-speed-booster-pack-admin.php:1513
+msgid "Main setting"
+msgstr "Ajuste principal"
+
+#: admin/class-speed-booster-pack-admin.php:1470
+msgid "Optimize JS for this content"
+msgstr "Optimizar el JS para este contenido"
+
+#: admin/class-speed-booster-pack-admin.php:1452
+msgid "Paste the critical CSS rules generated for this exact URL."
+msgstr "Pega las reglas de CSS crítico generadas para esta URL exacta."
+
+#: admin/class-speed-booster-pack-admin.php:1439
+msgid "Critical CSS for this content"
+msgstr "CSS crítico para este contenido"
+
+#: admin/class-speed-booster-pack-admin.php:1418
+msgid "Preload Rules for this content"
+msgstr "Reglas de precarga para este contenido"
+
+#: admin/class-speed-booster-pack-admin.php:1021
+msgid "Automatically sets missing image width and height parameters to improve the Cumulative Layout Shift (CLS) and Largest Contentful Paint (LCP) metrics."
+msgstr "Establece automáticamente los parámetros de anchura y altura de las imágenes que faltan para mejorar las métricas de desplazamiento acumulado del diseño (CLS) y de mayor contenido mostrado (LCP)."
+
+#: admin/class-speed-booster-pack-admin.php:1018
+msgid "Set missing image dimensions"
+msgstr "Establecer las dimensiones de las imágenes faltantes"
+
+#: admin/class-speed-booster-pack-admin.php:952
+msgid "Enter CSS file names or URLs to exclude from critical CSS."
+msgstr "Introduce los nombres de los archivos CSS o las URL a excluir del CSS crítico."
+
+#: admin/class-speed-booster-pack-admin.php:950
+msgid "Critical CSS exclude rules"
+msgstr "Reglas de exclusión de CSS crítico"
+
+#: admin/class-speed-booster-pack-admin.php:924
+msgid "Default Critical CSS"
+msgstr "CSS crítico por defecto"
+
+#: admin/class-speed-booster-pack-admin.php:250
+msgid "Advisor"
+msgstr "Asesor"
+
+#: admin/class-speed-booster-pack-admin.php:237
+msgid "All the notices below include optional, yet recommended changes to your website or your server, which will improve performance."
+msgstr "Todos los avisos siguientes incluyen cambios opcionales, aunque recomendados, en tu web o en tu servidor, que mejorarán el rendimiento."
+
+#: admin/class-speed-booster-pack-admin.php:232
+msgid "Recommendations to Improve Performance"
+msgstr "Recomendaciones para mejorar el rendimiento"
+
+#: includes/sbp-helpers.php:141
+msgid "You should enable permalinks for the caching module."
+msgstr "Debes activar los enlaces permanentes para el módulo de almacenamiento en caché."
+
+#: includes/classes/class-sbp-wp-admin.php:331
+msgid "Here's a tutorial on how to change file/directory permissions."
+msgstr "Aquí hay un tutorial sobre cómo cambiar los permisos de archivos/directorios."
+
+#: includes/classes/class-sbp-wp-admin.php:245
+msgid "If you like our plugin, we would be so grateful if you could %1$sgive us a fair rating on wordpress.org%2$s."
+msgstr "Si te gusta nuestro plugin, te agradeceríamos que %1$snos dieras una valoración justa en wordpress.org%2$s."
+
+#: includes/classes/class-sbp-wp-admin.php:240
+msgid "If you're enjoying using our plugin, can you %1$ssend a tweet to support us%2$s?"
+msgstr "Si estas disfrutando usando nuestro plugin, ¿puedes %1$senviar un tweet para apoyarnos%2$s?"
+
+#: includes/classes/class-sbp-wp-admin.php:226
+msgid "Cache warmup completed but following pages may not be cached. Please check this pages are available. (Hover over this notice to see all errors)"
+msgstr "Ha completado el calentamiento de la caché, pero es posible que las páginas siguientes no se almacenen en la caché. Por favor, comprueba que estas páginas están disponibles. (pasa el cursor sobre este aviso para ver todos los errores)"
+
+#. translators: %s: wp-content/advanced-cache.php
+#. translators: %s: wp-config.php
+#: includes/classes/class-sbp-wp-admin.php:182
+#: includes/classes/class-sbp-wp-admin.php:192
+msgid "%s is not writable. Please check your file permissions, or some features might not work."
+msgstr "%s no tiene permiso de escritura. Por favor, comprueba los permisos de tus archivos, o es posible que algunas características no funcionen."
+
+#: includes/classes/class-sbp-wp-admin.php:207
+msgid "Cache warmup completed."
+msgstr "Completado el calentamiento de la caché."
+
+#: includes/classes/class-sbp-wp-admin.php:30
+msgid "Rate Us"
+msgstr "Valóranos"
+
+#: includes/classes/class-sbp-newsletter.php:55
+msgid "Thank you! ❤"
+msgstr "¡Gracias! ❤"
+
+#: includes/classes/class-sbp-newsletter.php:36
+msgid "Visit the subscription page"
+msgstr "Visita la página de suscripción"
+
+#: includes/classes/class-sbp-newsletter.php:35
+msgid "Subscribe to our newsletter with <strong>tens of thousands of users</strong>, and get infrequent email updates from our plugin <em>and</em> more performance tips &amp; tricks!"
+msgstr "Suscríbete a nuestro boletín con <strong>decenas de miles de usuarios</strong>, ¡y recibirás actualizaciones por correo electrónico poco frecuentes de nuestro plugin <em>y</em>más sugerencias de rendimiento &amp; trucos!"
+
+#: includes/classes/class-sbp-migrator.php:252
+msgid "With version 4.2.0, we've split the JavaScript optimization feature into two: Defer and move to footer. Check your JS optimization settings to ensure the settings are correct."
+msgstr "Con la versión 4.2.0, hemos dividido la característica de optimización de JavaScript en dos: aplazar y mover al pie de página. Comprobar los ajustes de optimización de JS para garantizar que los ajustes son correctos."
+
+#: includes/classes/class-sbp-database-optimizer.php:76
+msgid "Invalid nonce."
+msgstr "Nonce no válido."
+
+#: includes/classes/class-sbp-database-optimizer.php:65
+msgid "Table converted successfully."
+msgstr "Tabla convertida correctamente."
+
+#: includes/classes/class-sbp-database-optimizer.php:60
+msgid "Error occurred while converting. Error details: "
+msgstr "Se ha producido un error durante la conversión. Detalles del error:"
+
+#: admin/class-speed-booster-pack-admin.php:1419
+msgid "Enter full URLs of files to preload only for this content."
+msgstr "Introduce las URL completas de los archivos para precargar solo para este contenido."
+
+#: admin/class-speed-booster-pack-admin.php:1311
+msgid "Actions"
+msgstr "Acciones"
+
+#: admin/class-speed-booster-pack-admin.php:1310
+msgid "Table name"
+msgstr "Nombre de la tabla"
+
+#: admin/class-speed-booster-pack-admin.php:1306
+msgid "Scan database tables"
+msgstr "Explorar las tablas de la base de datos"
+
+#: admin/class-speed-booster-pack-admin.php:1305
+msgid "This handy little tool converts your database tables from MyISAM to InnoDB. Click the button below to scan your tables. Tables with the MyISAM engine will then be listed so you can convert them one by one."
+msgstr "Esta pequeña y práctica herramienta convierte las tablas de tu base de datos de MyISAM a InnoDB. Haz clic en el botón de abajo para escanear tus tablas. A continuación, se enumerarán las tablas con el motor MyISAM para que puedas convertirlas una por una."
+
+#: admin/class-speed-booster-pack-admin.php:1298
+msgid "Database Engine Converter"
+msgstr "Conversor de motor de base de datos"
+
+#: admin/class-speed-booster-pack-admin.php:1292
+msgid "Database Optimization"
+msgstr "Optimización de la base de datos"
+
+#. translators: %s: <code>comment-reply.js</code>
+#: admin/class-speed-booster-pack-admin.php:324
+msgid "Disables the %s script."
+msgstr "Desactivar el script de %s."
+
+#. translators: %s: <code>comment-reply.js</code>
+#: admin/class-speed-booster-pack-admin.php:322
+msgid "Dequeue %s"
+msgstr "Quitar de la cola %s"
+
+#: admin/class-speed-booster-pack-admin.php:1108
+#: admin/class-speed-booster-pack-admin.php:1526
+msgid "Enter JS filenames/URLs or parts of inline JS to exclude from moving to footer."
+msgstr "Introduce los nombres de archivos JS/URLs o partes de JS integrado para excluir de moverse al pie de página."
+
+#: admin/class-speed-booster-pack-admin.php:1104
+#: admin/class-speed-booster-pack-admin.php:1522
+msgid "JavaScript to exclude from moving to footer"
+msgstr "Excluir JavaScript de moverse al pie de página"
+
+#: admin/class-speed-booster-pack-admin.php:1097
+#: admin/class-speed-booster-pack-admin.php:1517
+msgid "Moves all JS files and inline JS to the bottom of your page sources. Has a high chance to break your website, so be sure to exclude things! If you're using the defer setting, you probably don't need to enable this."
+msgstr "Mueve todos los archivos JS y JS integrado al final de las fuentes de tu página. Tiene una alta probabilidad de dañar tu web, ¡así que asegúrate de excluir las cosas! Si estás usando los ajustes de aplazamiento, es probable que no necesites activar esto."
+
+#: admin/class-speed-booster-pack-admin.php:1094
+msgid "Move JavaScript to footer"
+msgstr "Mover JavaScript al pie de página"
+
+#: admin/class-speed-booster-pack-admin.php:1088
+#: admin/class-speed-booster-pack-admin.php:1499
+msgid "Enter JS filenames/URLs or parts of inline JS to defer."
+msgstr "Introduce los nombres de archivos JS/URLs o partes de JS integrado para aplazar."
+
+#: admin/class-speed-booster-pack-admin.php:1084
+#: admin/class-speed-booster-pack-admin.php:1495
+msgid "JavaScript to defer"
+msgstr "JavaScript para aplazar"
+
+#: admin/class-speed-booster-pack-admin.php:1078
+#: admin/class-speed-booster-pack-admin.php:1088
+#: admin/class-speed-booster-pack-admin.php:1108
+#: admin/class-speed-booster-pack-admin.php:1488
+#: admin/class-speed-booster-pack-admin.php:1499
+#: admin/class-speed-booster-pack-admin.php:1526
+msgid "One rule per line. Each line will be taken as a separate rule, so don't paste entire blocks of inline JS!"
+msgstr "Una regla por línea. Cada línea se tomará como una regla separada, ¡así que no pegues los bloques enteros de JS integrado!"
+
+#: admin/class-speed-booster-pack-admin.php:1078
+#: admin/class-speed-booster-pack-admin.php:1488
+msgid "Enter JS filenames/URLs or parts of inline JS to exclude from deferring."
+msgstr "Introduce los nombres de archivos JS/URLs o partes de JS integrado para excluir de aplazarse"
+
+#: admin/class-speed-booster-pack-admin.php:1074
+#: admin/class-speed-booster-pack-admin.php:1484
+msgid "JavaScript to exclude from deferring"
+msgstr "Excluir JavaScript de aplazarse"
+
+#: admin/class-speed-booster-pack-admin.php:1068
+#: admin/class-speed-booster-pack-admin.php:1478
+msgid "Custom"
+msgstr "Personalizar"
+
+#: admin/class-speed-booster-pack-admin.php:1067
+#: admin/class-speed-booster-pack-admin.php:1477
+msgid "Everything"
+msgstr "Todo"
+
+#: admin/class-speed-booster-pack-admin.php:1063
+#: admin/class-speed-booster-pack-admin.php:1472
+msgid "Improves JavaScript loading by deferring all JS files and inline JS, avoiding render blocking issues. You can either defer everything and exclude some JS, or only defer some JS with the Custom option. Be sure what you're doing and use the exclude/include lists, or you might break your front-end JavaScript!"
+msgstr "Mejora la carga de JavaScript al aplazar todos los archivos JS y JS integrado, evitando los problemas de bloqueo de procesamiento. Puedes aplazar todo y excluir algunos JS, o solo aplazar algunos JS con la opción personalizada. Asegúrate de lo que estás haciendo y usa las listas de exclusión/inclusión, ¡o puedes romper el JavaScript de tu portada!"
+
+#: admin/class-speed-booster-pack-admin.php:882
+msgid "This CSS block will be injected into all product category pages. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en todas las páginas de categorías de productos. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:870
+msgid "This CSS block will be injected into all single product pages. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en todas las páginas de productos individuales. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:858
+msgid "This CSS block will be injected into all shop pages. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en todas las páginas de la tienda. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:638
+msgid "APO: Cache By Device Type"
+msgstr "APO: caché por tipo de dispositivo"
+
+#: admin/class-speed-booster-pack-admin.php:631
+msgid "You need to be a paying Cloudflare user to enable this setting, otherwise it will get disabled again."
+msgstr "Necesitas ser un usuario de pago de Cloudflare para activar esta configuración; de lo contrario, se volverá a desactivar."
+
+#: admin/class-speed-booster-pack-admin.php:629
+msgid "Automatic Platform Optimization"
+msgstr "Optimización automática de la plataforma"
+
+#: admin/class-speed-booster-pack-admin.php:514
+msgid "Enter one cookie per line to exclude them from caching."
+msgstr "Introduce un cookie por línea para excluirlos del almacenamiento en caché."
+
+#: admin/class-speed-booster-pack-admin.php:513
+msgid "Exclude Cookies"
+msgstr "Excluir cookies"
+
+#: admin/class-speed-booster-pack-admin.php:685
+msgid "Error occured while connecting to Cloudflare."
+msgstr "Se ha producido un error al conectarse a Cloudflare."
+
+#: includes/classes/class-sbp-cache-warmup.php:59
+msgid "Error occured while processing home page url"
+msgstr "Se ha producido un error al procesar la URL de la página de inicio"
+
+#: includes/classes/class-sbp-cloudflare.php:236
+msgid "You did not provide any CloudFlare credentials."
+msgstr "No has proporcionado ninguna credencial de CloudFlare."
+
+#: includes/classes/class-sbp-cloudflare.php:157
+msgid "Curl is not enabled in your hosting."
+msgstr "Curl no está activado en tu alojamiento."
+
+#: includes/classes/class-sbp-cloudflare.php:143
+msgid "Invalid action."
+msgstr "Acción no válida."
+
+#: includes/classes/class-sbp-wp-admin.php:200
+msgid "Cache warmup started."
+msgstr "Ha comenzado el calentamiento de la caché."
+
+#: includes/classes/class-sbp-wp-admin.php:172
+msgid "Localized scripts are cleared."
+msgstr "Se vacían los scripts localizados."
+
+#: includes/classes/class-sbp-wp-admin.php:150
+msgid "Error occured while clearing Cloudflare cache. Possible reason: Credentials invalid."
+msgstr "Se ha producido un error al vaciar la caché de Cloudflare. Posible motivo: las credenciales no son válidas."
+
+#: includes/classes/class-sbp-wp-admin.php:147
+msgid "Cloudflare cache cleared."
+msgstr "Vaciada la caché de Cloudflare."
+
+#: includes/classes/class-sbp-wp-admin.php:134
+msgid "Error occured while clearing Sucuri cache. "
+msgstr "Se ha producido un error al vaciar la caché de Sucuri."
+
+#: includes/classes/class-sbp-wp-admin.php:133
+msgid "Sucuri cache cleared."
+msgstr "Se ha vaciado la caché de Sucuri."
+
+#: includes/classes/class-sbp-wp-admin.php:121
+msgid "Clear Sucuri Cache"
+msgstr "Vaciar la caché de Sucuri"
+
+#: includes/classes/class-sbp-wp-admin.php:107
+msgid "Clear Cloudflare Cache"
+msgstr "Vaciar la caché de Cloudflare"
+
+#: includes/classes/class-sbp-wp-admin.php:93
+msgid "Clear Localized Scripts"
+msgstr "Vaciar los scripts localizados"
+
+#: includes/classes/class-sbp-wp-admin.php:78
+msgid "Warmup Cache"
+msgstr "Caché de calentamiento"
+
+#. translators: %s = PageSpeed Tricker
+#: admin/class-speed-booster-pack-admin.php:1278
+msgid "Enable %s"
+msgstr "Activar %s"
+
+#. translators: %s = Speed Booster Pack
+#: admin/class-speed-booster-pack-admin.php:1274
+msgid "This experimental feature is here to show you how easy it is to get top scores with Google PageSpeed (or Lighthouse to be exact), and how meaningless it is to obsess over these metrics. Google doesn't have a guideline about any penalties for websites manipulating Lighthouse metrics, but that doesn't mean they won't. Thus, take this feature as a joke and use only to experiment. By activating the feature, you acknowledge that you have sole responsibility for any kind of effects on your website."
+msgstr "Esta característica experimental está aquí para mostrarte lo fácil que es obtener las mejores puntuaciones con Google PageSpeed (o Lighthouse para ser exactos) y lo insignificante que es obsesionarse con estas métricas. Google no tiene una directriz sobre sanciones para las web que manipulan las métricas de Lighthouse, pero eso no significa que no lo harán. Por lo tanto, toma esta característica como una broma y úsala solo para experimentar. Al activar la característica, reconoce que eres el único responsable de cualquier tipo de efecto en tu web."
+
+#: admin/class-speed-booster-pack-admin.php:1268
+msgid "PageSpeed Tricker"
+msgstr "Tricker de PageSpeed"
+
+#: admin/class-speed-booster-pack-admin.php:1035
+msgid "Since you're using %s, lazyload feature is completely disabled to ensure compatibility with internal lazyload system of %s."
+msgstr "Ya que estás usando %s, la característica de la carga diferida está completamente desactivada para garantizar la compatibilidad con el sistema interno de la carga diferida de %s."
+
+#: admin/class-speed-booster-pack-admin.php:958
+msgid "Inline & Minify CSS"
+msgstr "Integrar y minimizar CSS"
+
+#: admin/class-speed-booster-pack-admin.php:941
+msgid "Remove critical CSS the onload event fires on browser. Enable this only if you're having styling issues when the pages finish loading."
+msgstr "Elimina CSS crítico que el evento de la carga activa en el navegador. Activa esto solo si tienes problemas de estilo cuando las páginas terminan de cargarse."
+
+#: admin/class-speed-booster-pack-admin.php:939
+msgid "Remove critical CSS after onload"
+msgstr "Elimina CSS crítico después de la carga"
+
+#: admin/class-speed-booster-pack-admin.php:842
+msgid "This CSS block will be injected into all archive pages. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en todas las páginas de archivo. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:830
+msgid "This CSS block will be injected into all tag archive pages. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en todas las páginas del archivo de etiquetas. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:818
+msgid "This CSS block will be injected into all category archive pages. %1$s%2$s%3$s"
+msgstr "Este bloque CSS se inyectará en todas las páginas de archivo de categorías. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:806
+msgid "This CSS block will be injected into all static pages. %1$s%2$s%3$s"
+msgstr "Este bloque CSS se inyectará en todas las páginas estáticas. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:794
+msgid "This CSS block will be injected into all single posts. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en todas las entradas individuales. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:782
+msgid "This CSS block will be injected into the blog homepage of your website. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en la página de inicio del blog de tu web. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:770
+#: admin/class-speed-booster-pack-admin.php:782
+#: admin/class-speed-booster-pack-admin.php:794
+#: admin/class-speed-booster-pack-admin.php:806
+#: admin/class-speed-booster-pack-admin.php:818
+#: admin/class-speed-booster-pack-admin.php:830
+#: admin/class-speed-booster-pack-admin.php:842
+#: admin/class-speed-booster-pack-admin.php:858
+#: admin/class-speed-booster-pack-admin.php:870
+#: admin/class-speed-booster-pack-admin.php:882
+msgid "Learn more about %s."
+msgstr "Aprende más sobre %s."
+
+#: admin/class-speed-booster-pack-admin.php:770
+msgid "This CSS block will be injected into the front page of your website. %1$s%2$s%3$s"
+msgstr "Este bloque de CSS se inyectará en la página principal de tu web. %1$s%2$s%3$s"
+
+#: admin/class-speed-booster-pack-admin.php:926
+msgid "This CSS block will be injected into all pages if there's no critical CSS blocks with higher priority. %1$sLearn more about the template hierarchy of WordPress.%2$s"
+msgstr "Este bloque CSS se inyectará en todas las páginas si no hay bloques CSS críticos con mayor prioridad. %1$sAprende más acerca de la jerarquía de plantillas de WordPress.%2$s"
+
+#: admin/class-speed-booster-pack-admin.php:917
+msgid "Critical CSS is a method to optimize CSS delivery, %1$srecommended by Google%2$s. It allows you to defer all your CSS files and inline the styles of your content above the fold. You can generate critical CSS needed for your website %3$susing a tool like this%4$s and paste them below."
+msgstr "CSS crítico es un método para optimizar la entrega de CSS,%1$srecomendado por Google%2$s. Te permite aplazar todos tus archivos CSS e integrar los estilos de tu contenido antes de hacer scroll. Puedes generar el CSS crítico necesario para tu web %3$susando una herramienta como esta%4$s y pegarlo a continuación."
+
+#: admin/class-speed-booster-pack-admin.php:914
+msgid "Critical CSS"
+msgstr "CSS crítico"
+
+#: admin/class-speed-booster-pack-admin.php:914
+msgid "Enable"
+msgstr "Activar"
+
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#: admin/class-speed-booster-pack-admin.php:893
+#: admin/class-speed-booster-pack-admin.php:900
+msgid "Optimize CSS"
+msgstr "Opmitizar el CSS"
+
+#: admin/class-speed-booster-pack-admin.php:754
+msgid "CDN & Proxy"
+msgstr "CDN y Proxy"
+
+#: admin/class-speed-booster-pack-admin.php:745
+msgid "If you want to exclude certain file types, enter the extensions here. Separated by new lines."
+msgstr "Si deseas excluir ciertos tipos de archivos, introduce las extensiones aquí. Separado por nuevas líneas."
+
+#: admin/class-speed-booster-pack-admin.php:742
+msgid "Excluded Extensions"
+msgstr "Extensiones excluidas"
+
+#: admin/class-speed-booster-pack-admin.php:738
+msgid "Anything other than WordPress's existing directories should be entered here to be rewritten with the CDN domain. Separated by new lines."
+msgstr "Cualquier otra cosa que no sean los directorios existentes de WordPress deben introducirse aquí para ser reescrita con el dominio CDN. Una por cada línea."
+
+#: admin/class-speed-booster-pack-admin.php:712
+msgid "Sucuri API Secret"
+msgstr "Secreto de la API de Sucuri"
+
+#: admin/class-speed-booster-pack-admin.php:707
+msgid "Sucuri API key"
+msgstr "Clave de la API de Sucuri"
+
+#: admin/class-speed-booster-pack-admin.php:703
+msgid "When you connect your Sucuri account, you'll be able to clear your Sucuri cache via your admin bar. Plus, every time %1$s Cache's cache is cleared, Sucuri's cache will be cleared as well."
+msgstr "Cuando conectas tu cuenta de Sucuri, podrás vaciar la caché de Sucuri a través de tu barra de administración. Además, cada vez que se vacía la caché de la caché de %1$s, también se vaciara la caché de Sucuri."
+
+#: admin/class-speed-booster-pack-admin.php:700
+msgid "Connect to Sucuri"
+msgstr "Conectar a Sucuri"
+
+#: admin/class-speed-booster-pack-admin.php:696
+msgid "Sucuri"
+msgstr "Sucuri"
+
+#: admin/class-speed-booster-pack-admin.php:687
+msgid "Enter your Cloudflare credentials and save settings to see CloudFlare options."
+msgstr "Introduce tus credenciales de Cloudflare y guarda los ajustes para ver las opciones de Cloudflare."
+
+#: admin/class-speed-booster-pack-admin.php:686
+msgid "Your Cloudflare credentials are correct."
+msgstr "Tus credenciales de Cloudflare son correctas."
+
+#: admin/class-speed-booster-pack-admin.php:682
+msgid "Fetching Cloudflare settings..."
+msgstr "Obteniendo los ajustes de Cloudflare..."
+
+#: admin/class-speed-booster-pack-admin.php:681
+msgid "Test Cloudflare connection"
+msgstr "Prueba la conexión de Cloudflare"
+
+#: admin/class-speed-booster-pack-admin.php:673
+msgid "1 year"
+msgstr "1 año"
+
+#: admin/class-speed-booster-pack-admin.php:672
+msgid "6 months"
+msgstr "6 meses"
+
+#: admin/class-speed-booster-pack-admin.php:671
+msgid "2 months"
+msgstr "2 meses"
+
+#: admin/class-speed-booster-pack-admin.php:670
+msgid "1 month"
+msgstr "1 mes"
+
+#: admin/class-speed-booster-pack-admin.php:669
+msgid "24 days"
+msgstr "24 días"
+
+#: admin/class-speed-booster-pack-admin.php:668
+msgid "16 days"
+msgstr "16 días"
+
+#: admin/class-speed-booster-pack-admin.php:667
+msgid "8 days"
+msgstr "8 días"
+
+#: admin/class-speed-booster-pack-admin.php:666
+msgid "5 days"
+msgstr "5 días"
+
+#: admin/class-speed-booster-pack-admin.php:665
+msgid "4 days"
+msgstr "4 días"
+
+#: admin/class-speed-booster-pack-admin.php:664
+msgid "3 days"
+msgstr "3 días"
+
+#: admin/class-speed-booster-pack-admin.php:663
+msgid "2 days"
+msgstr "2 días"
+
+#: admin/class-speed-booster-pack-admin.php:662
+msgid "1 day"
+msgstr "1 día"
+
+#: admin/class-speed-booster-pack-admin.php:661
+msgid "20 hours"
+msgstr "20 horas"
+
+#: admin/class-speed-booster-pack-admin.php:660
+msgid "16 hours"
+msgstr "16 horas"
+
+#: admin/class-speed-booster-pack-admin.php:659
+msgid "12 hours"
+msgstr "12 horas"
+
+#: admin/class-speed-booster-pack-admin.php:658
+msgid "8 hours"
+msgstr "8 horas"
+
+#: admin/class-speed-booster-pack-admin.php:657
+msgid "5 hours"
+msgstr "5 horas"
+
+#: admin/class-speed-booster-pack-admin.php:656
+msgid "4 hours"
+msgstr "4 horas"
+
+#: admin/class-speed-booster-pack-admin.php:655
+msgid "3 hours"
+msgstr "3 horas"
+
+#: admin/class-speed-booster-pack-admin.php:654
+msgid "2 hours"
+msgstr "2 horas"
+
+#: admin/class-speed-booster-pack-admin.php:653
+msgid "1 hour"
+msgstr "1 hora"
+
+#: admin/class-speed-booster-pack-admin.php:651
+msgid "Respect Existing Headers"
+msgstr "Respetar las cabeceras existentes"
+
+#: admin/class-speed-booster-pack-admin.php:646
+msgid "Browser Cache TTL"
+msgstr "TTL de la caché del navegador"
+
+#: admin/class-speed-booster-pack-admin.php:621
+msgid "Minify JS"
+msgstr "Minimizar JS"
+
+#: admin/class-speed-booster-pack-admin.php:605
+msgid "Minify CSS"
+msgstr "Minimizar CSS"
+
+#: admin/class-speed-booster-pack-admin.php:597
+msgid "Development Mode"
+msgstr "Modo de desarrollo"
+
+#: admin/class-speed-booster-pack-admin.php:589
+msgid "Rocket Loader"
+msgstr "Rocket Loader"
+
+#: admin/class-speed-booster-pack-admin.php:561
+msgid "Cloudflare"
+msgstr "Cloudflare"
+
+#: admin/class-speed-booster-pack-admin.php:496
+msgid "Creates cache files for the front page and all pages that are linked from the front page, each time the cache is cleared. Note that even though you don't turn this option on, you can manually warm up the cache from your admin bar."
+msgstr "Crea archivos de la caché para la página principal y todas las páginas que están enlazadas desde la página principal, cada vez que se borra la caché. Ten en cuenta que aunque no actives esta opción, puedes calentar manualmente la caché desde tu barra de administración."
+
+#: admin/class-speed-booster-pack-admin.php:495
+msgid "Warm up cache on clear"
+msgstr "Calentar la caché al vaciar"
+
+#: includes/classes/class-sbp-cache.php:282
+msgid "advanced-cache.php can not be removed. Please remove it manually."
+msgstr "No se puede eliminar «advanced-cache.php». Por favor, elimínalo manualmente."
+
+#: includes/classes/class-sbp-migrator.php:246
+msgid "With the new version of %s, your settings are migrated to the plugin's new options framework. <a href=\"%s\">Click here to review %1$s's options.</a>"
+msgstr "Con la nueva versión de %s, tus ajustes han sido migrados al nuevo marco de opciones del plugin. <a href=\"%s\">Haz clic aquí para revisar las opciones de %1$s.</a>"
+
+#: includes/classes/class-sbp-compatibility-checker.php:106
+msgid "The \"%1$s\" plugin has similar features to %2$s's, which might cause overlaps or even conflicts. Make sure you're not using the similar features of each plugin at the same time, test thoroughly and deactivate %1$s if necessary."
+msgstr "El plugin «%1$s» tiene características similares a las de %2$s, lo que puede causar superposiciones o incluso conflictos. Asegúrate de que no estás utilizando las características similares de cada plugin al mismo tiempo, prueba a fondo y desactiva %1$s si es necesario."
+
+#: includes/classes/class-sbp-cloudflare.php:182
+msgid "Cloudflare didn't respond correctly."
+msgstr "Cloudflare no ha respondido correctamente."
+
+#: admin/class-speed-booster-pack-admin.php:1515
+msgid "On"
+msgstr "Activo"
+
+#: includes/classes/class-sbp-wp-admin.php:164
+msgid "Cache cleared."
+msgstr "Caché vaciada."
+
+#: includes/classes/class-sbp-wp-admin.php:65
+msgid "Clear Cache"
+msgstr "Vaciar la caché"
+
+#. translators: %s = hyperlink to speedboosterpack.com
+#: admin/class-speed-booster-pack-admin.php:1390
+msgid "Fetches notices from %s, and shows them in a non-obtrusive manner. We intend to send essential notices only, and we hate spam as much as you do, but if you don't want to get them, you can disable this setting."
+msgstr "Obtiene avisos de %s y los muestra de forma no molesta. Tenemos la intención de enviar solo avisos esenciales y odiamos el spam tanto como tú, pero si no quieres recibirlos, puedes desactivar este ajuste."
+
+#: admin/class-speed-booster-pack-admin.php:1385
+msgid "Allow external notices"
+msgstr "Permitir avisos externos"
+
+#. translators: 1. Speed Booster Pack 2. link to the speedboosterpack.com
+#. contact form 3. link to the GitHub page
+#: admin/class-speed-booster-pack-admin.php:1377
+msgid "We made use of the following libraries and frameworks in Speed Booster Pack, so we'd like to give them a shout out and thank them:"
+msgstr "Hemos hecho uso de las siguientes bibliotecas y marcos de trabajo en Speed Booster Pack, por lo que nos gustaría saludarles y agradecerles:"
+
+#: admin/class-speed-booster-pack-admin.php:1372
+msgid "Special thanks"
+msgstr "Agradecimiento especial"
+
+#: admin/class-speed-booster-pack-admin.php:1368
+msgid "Contact us"
+msgstr "Contáctanos"
+
+#: admin/class-speed-booster-pack-admin.php:1367
+msgid "Learn more about our tailored Complete Speed Optimization services"
+msgstr "Aprende más acerca de nuestros servicios personalizados de optimización completa de la velocidad"
+
+#: admin/class-speed-booster-pack-admin.php:1366
+msgid "Visit our website"
+msgstr "Visita nuestra web"
+
+#. translators: 1. Optimocha 2. Speed Booster Pack
+#: admin/class-speed-booster-pack-admin.php:1365
+msgid "We are %1$s, a small team of speed optimization experts. Along with hundreds of websites we finished optimizing, we acquired %2$s in 2019 and we're working hard to make this plugin the best speed optimization plugin for WordPress ever since!"
+msgstr "Somos %1$s, un pequeño equipo de expertos en optimización de velocidad. ¡Junto con cientos de web que terminamos de optimizar, adquirimos %2$s en 2019 y, desde entonces, estamos trabajando duro para hacer que este plugin sea el mejor plugin de optimización de la velocidad para WordPress desde entonces."
+
+#. translators: %s = Optimocha
+#: admin/class-speed-booster-pack-admin.php:1360
+msgid "About %s"
+msgstr "Acerca de %s"
+
+#: admin/class-speed-booster-pack-admin.php:1351
+msgid "About"
+msgstr "Acerca de"
+
+#. translators: %s = Speed Booster Pack
+#: admin/class-speed-booster-pack-admin.php:1335
+msgid "Backup %s Settings"
+msgstr "Ajustes de la copia de seguridad %s"
+
+#: admin/class-speed-booster-pack-admin.php:1328
+msgid "Tools"
+msgstr "Herramientas"
+
+#: admin/class-speed-booster-pack-admin.php:439
+msgid "WordPress version"
+msgstr "Versión de WordPress"
+
+#: admin/class-speed-booster-pack-admin.php:432
+msgid "RSS feed links"
+msgstr "Enlaces de feed RSS"
+
+#: admin/class-speed-booster-pack-admin.php:425
+msgid "REST API links"
+msgstr "Enlaces de la API REST"
+
+#: admin/class-speed-booster-pack-admin.php:418
+msgid "Really Simple Discovery (RSD) link"
+msgstr "Enlace Really Simple Discovery (RSD)"
+
+#: admin/class-speed-booster-pack-admin.php:411
+msgid "WLW Manifest link"
+msgstr "Enlace WLW Manifest"
+
+#: admin/class-speed-booster-pack-admin.php:404
+msgid "Next/previous posts links"
+msgstr "Enlaces de entradas anteriores/siguientes"
+
+#: admin/class-speed-booster-pack-admin.php:397
+msgid "Shortlinks"
+msgstr "Enlaces cortos"
+
+#: admin/class-speed-booster-pack-admin.php:393
+msgid "Enabling these options removes corresponding elements from your HTML source code. If you don't know what they are, it's probably safer for you to keep them disabled."
+msgstr "Activando estas opciones, se eliminan los elementos correspondientes de tu código fuente HTML. Si no sabes cuáles son, probablemente sea más seguro mantenerlos desactivados."
+
+#. translators: %s = <head>
+#: admin/class-speed-booster-pack-admin.php:389
+msgid "Declutter %s"
+msgstr "Ordenar %s"
+
+#: admin/class-speed-booster-pack-admin.php:380
+msgid "Sets how frequent the content is saved automatically while editing. WordPress sets it to 1 minute by default, and you can't set it to a shorter interval."
+msgstr "Establece la frecuencia con la que se guarda el contenido automáticamente durante la edición. WordPress lo establece en 1 minuto por defecto y no puedes establecer en un intervalo más corto."
+
+#: admin/class-speed-booster-pack-admin.php:379
+msgid "minutes"
+msgstr "minutos"
+
+#. translators: 1. WP_POST_REVISIONS 2. wp-config.php
+#. translators: 1. AUTOSAVE_INTERVAL 2. wp-config.php
+#: admin/class-speed-booster-pack-admin.php:369
+#: admin/class-speed-booster-pack-admin.php:382
+msgid "Note: If the %1$s constant is set in your %2$s file, it will override this setting."
+msgstr "Nota: si la constante %1$s está establecida en tu archivo %2$s, anulará este ajuste."
+
+#. translators: 1. opening tag for the hyperlink to the support article for
+#. revisions 2. closing tag for the hyperlink
+#: admin/class-speed-booster-pack-admin.php:367
+msgid "Limits the number of %1$spost revisions%2$s saved for each post. Keeping 3 or 5 revisions for each post should be enough for most sites. Set it to 0 to disable post revisions completely."
+msgstr "Limita el número de %1$srevisiones de entradas%2$s guardadas para cada entrada. Mantener 3 o 5 revisiones para cada entrada debería ser suficiente para la mayoría de los sitios. Establécelo en 0 para desactivar completamente las revisiones de entradas."
+
+#: admin/class-speed-booster-pack-admin.php:365
+msgid "revisions"
+msgstr "revisiones"
+
+#: admin/class-speed-booster-pack-admin.php:356
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: admin/class-speed-booster-pack-admin.php:355
+msgid "Optimized"
+msgstr "Optimizado"
+
+#: admin/class-speed-booster-pack-admin.php:354
+msgid "Enabled"
+msgstr "Activado"
+
+#. translators: 1. opening tag for the hyperlink to the Heartbeat API 2.
+#. closing tag for the hyperlink
+#: admin/class-speed-booster-pack-admin.php:351
+msgid "\"Enabled\" lets it run like usual, \"Optimized\" sets both intervals to 120 seconds, and \"Disabled\" disables the Heartbeat API completely."
+msgstr "«Activado» permite que se ejecute como de costumbre, «Optimizado» establece ambos intervalos en 120 segundos y «Desactivado» desactiva la API Heartbeat por completo."
+
+#. translators: 1. opening tag for the hyperlink to the Heartbeat API 2.
+#. closing tag for the hyperlink
+#: admin/class-speed-booster-pack-admin.php:351
+msgid "Controls the %1$sHeartbeat API%2$s, which checks if the user is still logged-in or not every 15 to 60 seconds."
+msgstr "Controla la API%2$s de %1$sHeartbeat, que comprueba si el usuario aún está conectado o no cada 15 a 60 segundos."
+
+#: admin/class-speed-booster-pack-admin.php:348
+msgid "Heartbeat settings"
+msgstr "Ajustes de heartbeat"
+
+#: admin/class-speed-booster-pack-admin.php:343
+msgid "If you're not using the block editor (Gutenberg) in your posts/pages, this is a safe setting to enable."
+msgstr "Si no estás usando el editor de bloques (Gutenberg) en tus entradas/páginas, esta es una configuración segura para activar."
+
+#: admin/class-speed-booster-pack-admin.php:340
+msgid "Dequeue Gutenberg CSS"
+msgstr "Quitar de la cola el CSS de Gutenberg"
+
+#. translators: 1. <strong> 2. </strong>
+#: admin/class-speed-booster-pack-admin.php:335
+msgid "Removes dashicons.css from your front-end for your visitors. Since Dashicons are required for the admin bar, %1$sdashicons.css will not be removed for logged-in users%2$s."
+msgstr "Elimina dashicons.css de tu portada para tus visitantes. Dado que los Dashicons son obligatorios para la barra de administración, %1$sno se eliminará dashicons.css para los usuarios conectados%2$s."
+
+#: admin/class-speed-booster-pack-admin.php:331
+msgid "Dequeue Dashicons CSS"
+msgstr "Desencolar el CSS de los Dashicons"
+
+#: admin/class-speed-booster-pack-admin.php:316
+msgid "Disables embedding posts from WordPress-based websites (including your own) which converts URLs into heavy iframes."
+msgstr "Desactivar la incrustación de entradas de la web basadas en WordPress (incluyendo el suyo) que convierte las URLs en iframes pesados."
+
+#: admin/class-speed-booster-pack-admin.php:313
+msgid "Dequeue the post embed script"
+msgstr "Quitar de la cola el script incrustado de la entrada"
+
+#: admin/class-speed-booster-pack-admin.php:307
+msgid "Removes the unnecessary emoji scripts from your website front-end. Doesn't remove emojis, don't worry."
+msgstr "Elimina los scripts de emoji innecesarios de la portada de tu web. No elimina los emojis, no te preocupes."
+
+#: admin/class-speed-booster-pack-admin.php:304
+msgid "Dequeue emoji scripts"
+msgstr "Quitar de la cola de scripts de emoji"
+
+#: admin/class-speed-booster-pack-admin.php:298
+msgid "Disabling this will prevent pinging this website to ping itself (its other posts etc.) during publishing, which will improve the speed of publishing posts or pages."
+msgstr "Desactivando esto evitará que al hacer ping a esta web para que se haga ping a sí misma (sus otras entradas, etc.) durante la publicación, lo que mejorará la velocidad de publicación de las entradas o páginas."
+
+#: admin/class-speed-booster-pack-admin.php:290
+msgid "Removes the query strings (characters that come after the question mark) at the end of enqueued asset URLs."
+msgstr "Elimina las cadenas de consulta (caracteres que vienen después del signo de interrogación) al final de las URLs de activos en cola."
+
+#: admin/class-speed-booster-pack-admin.php:287
+msgid "Trim query strings"
+msgstr "Recortar las cadenas de consulta"
+
+#. translators: %s = hyperlink to the instant.page website
+#: admin/class-speed-booster-pack-admin.php:282
+msgid "Enqueues %s (locally), which basically boosts the speed of navigating through your whole website."
+msgstr "Poner en la cola %s (localmente), lo que básicamente aumenta la velocidad de navegación por toda tu web."
+
+#: admin/class-speed-booster-pack-admin.php:1262
+msgid "Disables the password strength meter for password inputs during a WooCommerce checkout."
+msgstr "Desactivar el medidor de fuerza de la contraseña para las entradas de contraseña durante un pago de WooCommerce."
+
+#: admin/class-speed-booster-pack-admin.php:1259
+msgid "Disable password strength meter"
+msgstr "Desactivar el medidor de fuerza de la contraseña"
+
+#: admin/class-speed-booster-pack-admin.php:1254
+msgid "Prevents loading of WooCommerce-related scripts and styles on non-WooCommerce pages."
+msgstr "Evita la carga de scripts y estilos relacionados con WooCommerce en las páginas que no son de WooCommerce."
+
+#: admin/class-speed-booster-pack-admin.php:1251
+msgid "Optimize non-WooCommerce pages"
+msgstr "Optimizar las páginas que no son de WooCommerce"
+
+#. translators: %s = cart-fragments.js
+#: admin/class-speed-booster-pack-admin.php:1246
+msgid "Dequeues the %s file if the visitor's cart is empty,  preventing an unnecessary and slow AJAX request."
+msgstr "Quita de la cola el archivo %s si el carrito del visitante está vacío, evitando una solicitud AJAX lenta e innecesaria."
+
+#: admin/class-speed-booster-pack-admin.php:1242
+msgid "Disable cart fragments"
+msgstr "Desactivar fragmentos del carrito"
+
+#: admin/class-speed-booster-pack-admin.php:1234
+msgid "4-second delay"
+msgstr "4 segundos de retraso"
+
+#: admin/class-speed-booster-pack-admin.php:1233
+msgid "onload"
+msgstr "en carga"
+
+#: admin/class-speed-booster-pack-admin.php:1232
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/class-speed-booster-pack-admin.php:1229
+msgid "Set this to \"onload\" to defer the code to page onload, or \"4-second delay\" to defer it to four seconds after onload. When in doubt, set it to \"Normal\"."
+msgstr "Establecer esto en «en carga» para aplazar el código a la página en carga, o «4 segundos de retraso» para aplazarlo a cuatro segundos después de la carga. Cuando estas en dudas, establecerlo en «normal»."
+
+#: admin/class-speed-booster-pack-admin.php:1227
+msgid "Loading method"
+msgstr "Método de carga"
+
+#: admin/class-speed-booster-pack-admin.php:1222
+msgid "Header"
+msgstr "Cabecera"
+
+#: admin/class-speed-booster-pack-admin.php:1221
+msgid "Footer"
+msgstr "Pie de página"
+
+#: admin/class-speed-booster-pack-admin.php:1218
+msgid "Set this to \"Footer\" to place the code before &lt;/body&gt;, or \"Header\" to place it before &lt;/head&gt;."
+msgstr "Establece esto en «Pie de página» para colocar el código antes de &lt;/body&gt;, o «Cabecera» para colocarlo antes de &lt;/head&gt;."
+
+#: admin/class-speed-booster-pack-admin.php:1216
+msgid "Placement"
+msgstr "Ubicación"
+
+#. translators: %s = script tag
+#: admin/class-speed-booster-pack-admin.php:1212
+msgid "Paste the inline JavaScript here. DON'T include the %s tags or else you might break it!"
+msgstr "Pega el JavaScript integrado aquí. ¡NO incluyas las etiquetas %s o podrías romperlas!"
+
+#: admin/class-speed-booster-pack-admin.php:1189
+msgid "Code blocks added with this tool can be loaded in the header, the footer and can even be delayed."
+msgstr "Los bloques de código añadidos con esta herramienta pueden cargarse en la cabecera, el pie de página e incluso pueden ser retrasados."
+
+#: admin/class-speed-booster-pack-admin.php:1186
+msgid "Custom code manager"
+msgstr "Administrador de código personalizado"
+
+#: admin/class-speed-booster-pack-admin.php:1181
+msgid "Searches for Google Analytics or Google Tag Manager scripts (analytics.js, gtag.js or gtm.js) in your page sources, and replaces them with a locally saved script."
+msgstr "Busca los scripts de Google Analytics o Google Tag Manager (analytics.js, gtag.js o gtm.js) en las fuentes de la página, y los reemplaza con un script guardado localmente."
+
+#: admin/class-speed-booster-pack-admin.php:1178
+msgid "Localize Google Analytics & Google Tag Manager"
+msgstr "Localizar Google Analytics y Google Tag Manager"
+
+#: admin/class-speed-booster-pack-admin.php:731
+msgid "Rewrites all asset URLs with the specified CDN domain. Enter the CDN domain without a protocol or a trailing slash; a relative protocol will be automatically added to all changed asset URLs."
+msgstr "Reescribe todas las URLs de activos con el dominio CDN especificado. Introduce el dominio CDN sin un protocolo o una barra diagonal final; Se añadirá automáticamente un protocolo relativo a todas las URLs de activos modificados."
+
+#: admin/class-speed-booster-pack-admin.php:725
+msgid "Enable CDN"
+msgstr "Activar CDN"
+
+#: admin/class-speed-booster-pack-admin.php:1123
+msgid "Enable preloading of the assets specified below."
+msgstr "Activar el precargar de los recursos que se especifican a continuación."
+
+#: admin/class-speed-booster-pack-admin.php:981
+msgid "If your design breaks after enabling the CSS options above, you can exclude CSS file URLs here. One rule per line."
+msgstr "Si tu diseño se rompe después de activar las opciones de CSS anteriores, puedes excluir las URL de archivos CSS aquí. Una regla por línea."
+
+#: admin/class-speed-booster-pack-admin.php:972
+msgid "Minifies the already inlined CSS."
+msgstr "Minimizar el CSS ya integrado."
+
+#: admin/class-speed-booster-pack-admin.php:969
+msgid "Minify all inlined CSS"
+msgstr "Minimizar todos los CSS integrados"
+
+#: admin/class-speed-booster-pack-admin.php:964
+msgid "Inlines all CSS files into the HTML output. Useful for lightweight designs but might be harmful for websites with over 500KB of total CSS."
+msgstr "Integra todos los archivos CSS en la salida HTML. Útil para diseños ligeros, pero puede ser perjudicial para webs con más de 500 KB de CSS total."
+
+#: admin/class-speed-booster-pack-admin.php:1066
+#: admin/class-speed-booster-pack-admin.php:1476
+#: admin/class-speed-booster-pack-admin.php:1514
+msgid "Off"
+msgstr "Apagado"
+
+#: admin/class-speed-booster-pack-admin.php:1061
+msgid "Optimize JavaScript"
+msgstr "Optimizar JavaScript"
+
+#: admin/class-speed-booster-pack-admin.php:1056
+msgid "Excluding important images at the top of your pages (like your logo and such) is a good idea. One URL per line."
+msgstr "Excluir las imágenes importantes en la parte superior de tus páginas (como tu logotipo y tal) es una buena idea. Una URL por línea."
+
+#: admin/class-speed-booster-pack-admin.php:1052
+msgid "Lazy load exclusions"
+msgstr "Carga diferida de exclusiones"
+
+#: admin/class-speed-booster-pack-admin.php:1046
+msgid "Defers loading of images, videos and iframes to page onload."
+msgstr "Aplazar la carga de imágenes, videos e iframes para cargar la página."
+
+#: admin/class-speed-booster-pack-admin.php:1043
+msgid "Lazy load media"
+msgstr "Carga diferida de medios"
+
+#: admin/class-speed-booster-pack-admin.php:1013
+msgid "Combines all Google Fonts URLs into a single URL and optimizes loading of that URL."
+msgstr "Combina todas las URL de Google Fonts en una sola URL y optimiza la carga de esa URL."
+
+#: admin/class-speed-booster-pack-admin.php:1005
+msgid "Removes all whitespace characters from the HTML output, minimizing the HTML size."
+msgstr "Elimina todos los espacios en blanco de la salida HTML, minimizando el tamaño HTML."
+
+#: includes/sbp-helpers.php:58 includes/sbp-helpers.php:66
+#: includes/sbp-helpers.php:74 includes/sbp-helpers.php:79
+#: includes/sbp-helpers.php:84 includes/sbp-helpers.php:89
+#: includes/sbp-helpers.php:94 includes/sbp-helpers.php:99
+#: includes/sbp-helpers.php:104 includes/sbp-helpers.php:109
+msgid "Since you're using %s, cache feature is completely disabled to ensure compatibility with internal caching system of %s."
+msgstr "Ya que estás usando %s, la característica de la caché está completamente desactivada para garantizar la compatibilidad con el sistema de la caché interno de %s."
+
+#. translators: 1. <code> 2. </code>
+#: admin/class-speed-booster-pack-admin.php:525
+msgid "For example, after adding \"foo\" to the list, %1$sexample.com/blog-post/?foo=bar%2$s will be cached."
+msgstr "Por ejemplo, se almacenará en la caché después de añadir «foo» a la lista, %1$sexample.com/blog-post/?foo=bar%2$s."
+
+#: admin/class-speed-booster-pack-admin.php:523
+msgid "Enter one query string per line to cache URLs with those query strings."
+msgstr "Introduce una cadena de consulta por línea para almacenar en caché las URL con esas cadenas de consulta."
+
+#: admin/class-speed-booster-pack-admin.php:522
+msgid "Cached query strings"
+msgstr "Cadenas de consulta en la caché"
+
+#: admin/class-speed-booster-pack-admin.php:505
+msgid "Enter one URL per line to exclude them from caching. Cart and Checkout pages of WooCommerce are always excluded, so you don't have to set them in here."
+msgstr "Introduce una URL por línea para excluirlos del almacenamiento en la caché. Las páginas de carrito y de pago de WooCommerce siempre están excluidas, por lo que no tienes que establecerlas aquí."
+
+#: admin/class-speed-booster-pack-admin.php:504
+msgid "Exclude URLs"
+msgstr "Excluir las URLs"
+
+#: admin/class-speed-booster-pack-admin.php:488
+msgid "Creates separate cache files for mobile and desktop. Useful if you have mobile-specific plugins or themes. Not necessary if you have a responsive theme."
+msgstr "Crea archivos de la caché separados para dispositivos móviles y de escritorio. Útil si tienes plugins o temas específicos para dispositivos móviles. No es necesario si tienes un tema adaptable."
+
+#: admin/class-speed-booster-pack-admin.php:487
+msgid "Separate mobile cache"
+msgstr "Caché móvil independiente"
+
+#: admin/class-speed-booster-pack-admin.php:479
+msgid "How many hours to expire a cached page (1 or higher). Expired cache files are regenerated automatically."
+msgstr "Cuántas horas para que caduque una página almacenada en caché (1 o más). Los archivos de caché caducados se regeneran automáticamente."
+
+#: admin/class-speed-booster-pack-admin.php:478
+msgid "hours"
+msgstr "horas"
+
+#: admin/class-speed-booster-pack-admin.php:474
+msgid "Cache expiry time"
+msgstr "Tiempo de caducidad de la caché"
+
+#: admin/class-speed-booster-pack-admin.php:273
+#: admin/class-speed-booster-pack-admin.php:470
+#: admin/class-speed-booster-pack-admin.php:904
+#: admin/class-speed-booster-pack-admin.php:997
+#: admin/class-speed-booster-pack-admin.php:1173
+msgid "Enables or disables the whole module without resetting its settings."
+msgstr "Activar o desactivar todo el módulo sin restablecer los ajustes."
+
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#: admin/class-speed-booster-pack-admin.php:269
+#: admin/class-speed-booster-pack-admin.php:469
+#: admin/class-speed-booster-pack-admin.php:900
+#: admin/class-speed-booster-pack-admin.php:994
+#: admin/class-speed-booster-pack-admin.php:1169
+msgid "Enable/Disable"
+msgstr "Activar/desactivar"
+
+#: admin/class-speed-booster-pack-admin.php:586
+msgid "You can find your zone ID in the Overview tab on your Cloudflare panel."
+msgstr "Puedes encontrar tu ID de la zona en la pestaña «Resumen» en tu escritorio de Cloudflare."
+
+#: admin/class-speed-booster-pack-admin.php:583
+msgid "Cloudflare zone ID"
+msgstr "ID de la zona de Cloudflare"
+
+#: admin/class-speed-booster-pack-admin.php:580
+msgid "The email address you signed up for Cloudflare with."
+msgstr "La dirección de correo electrónico con la que te registraste en Cloudflare."
+
+#: admin/class-speed-booster-pack-admin.php:577
+msgid "Cloudflare email address"
+msgstr "Dirección de correo electrónico de Cloudflare"
+
+#: admin/class-speed-booster-pack-admin.php:574
+msgid "You can find it using this tutorial."
+msgstr "Puedes encontrarlo usando este tutorial."
+
+#: admin/class-speed-booster-pack-admin.php:571
+msgid "Cloudflare global API key"
+msgstr "Clave global de la API de Cloudflare"
+
+#: admin/class-speed-booster-pack-admin.php:565
+msgid "Connect to Cloudflare"
+msgstr "Conectar a Cloudflare"
+
+#: admin/class-speed-booster-pack-admin.php:684
+msgid "Your Cloudflare credentials are incorrect."
+msgstr "Tus credenciales de Cloudflare son incorrectas."
+
+#. translators: 1: plugin owner's name (Optimocha) 2: Speed Booster Pack (Speed
+#. Booster Pack) 3: hyperlink to the owner's website
+#: admin/class-speed-booster-pack-admin.php:221
+msgid "As %1$s, we like to brag about completing hundreds of tailored speed optimization jobs for different websites. (This experience is actually the source of the know-how that helps %2$s get better on every release!) If you're willing to invest in speeding up your website, not just with %2$s but as a whole, feel free to contact us on %3$s and benefit from our expertise on speed optimization!"
+msgstr "Como %1$s, nos gusta presumir acerca de los cientos de trabajos completados de optimización de velocidad a medida para diferentes webs. (¡Esta experiencia es en realidad la fuente del conocimiento que ayuda a %2$s a mejorar en cada lanzamiento!) Si estás dispuesto a invertir en acelerar tu web, no solo con %2$s sino en su conjunto, ¡no dudes en contactarnos en %3$s y beneficiarte de nuestra experiencia en la optimización de la velocidad!"
+
+#: admin/class-speed-booster-pack-admin.php:216
+msgid "If you're looking for professional help..."
+msgstr "Si estás buscando ayuda profesional..."
+
+#. translators: 1. Speed Booster Pack 2. link to the plugin's reviews page on
+#. wp.org
+#: admin/class-speed-booster-pack-admin.php:212
+msgid "Almost forgot: If you like %1$s, it would mean a lot to us if you gave a fair rating on %2$s, because highly rated plugins are shown to more users on the WordPress plugin directory, meaning that we'll have no choice but to take better care of %1$s!"
+msgstr "Casi se me olvida: si te gusta %1$s, significaría mucho para nosotros si nos das una valoración justa por %2$s, porque los plugins altamente valorados se muestran a más usuarios en el directorio de plugins de WordPress, ¡lo que significa que no tendremos más remedio que cuidar mejor de %1$s!"
+
+#. translators: %s = Optimocha
+#: admin/class-speed-booster-pack-admin.php:210
+msgid "Your friends at %s"
+msgstr "Tus amigos en %s"
+
+#: admin/class-speed-booster-pack-admin.php:208
+msgid "We really hope that you'll enjoy working with our plugin. Always remember that this is a powerful tool, and using powerful tools might hurt you if you're not careful. Have fun!"
+msgstr "Realmente esperamos que disfrutes trabajando con nuestro plugin. Recuerda siempre que esta es una herramienta poderosa, y el uso de herramientas poderosas podría hacerte daño si no tienes cuidado. ¡Que te diviertas!"
+
+#: admin/class-speed-booster-pack-admin.php:204
+msgid "That's it, enjoy!"
+msgstr "Eso es todo, ¡disfruta!"
+
+#. translators: 1. opening tag for the newsletter hyperlink 2. closing tag for
+#. the hyperlink
+#: admin/class-speed-booster-pack-admin.php:200
+msgid "Like we mentioned above, we're constantly working on making our plugin better on every release. If you'd like to be the first to know about improvements before they're released, plus more tips &amp; tricks about web performance optimization, %1$syou can sign up for our weekly newsletter here%2$s!"
+msgstr "Como hemos mencionado anteriormente, trabajamos constantemente para mejorar nuestro plugin en cada versión. Si deseas ser el primero en conocer las mejoras antes de su lanzamiento, además de más trucos y consejos acerca de la optimización del rendimiento web, ¡%1$spuedes suscribirte a nuestro boletín semanal aquí%2$s!"
+
+#: admin/class-speed-booster-pack-admin.php:195
+msgid "Upcoming features"
+msgstr "Características por venir"
+
+#: admin/class-speed-booster-pack-admin.php:191
+msgid "Feel free to experiment, and don't forget to create exclude rules when necessary!"
+msgstr "¡No dudes en experimentar, y no olvides crear reglas de exclusión cuando sea necesario!"
+
+#: admin/class-speed-booster-pack-admin.php:190
+msgid "This module lets you tweak the WordPress core and your page sources by dequeueing core scripts/styles, decluttering &lt;head&gt;, optimizing revisions and the Heartbeat API and so on."
+msgstr "Este módulo te permite retocar el núcleo de WordPress y las fuentes de tu página quitando la cola de los scripts/estilos del núcleo, ordenando la &lt;head&gt;, optimizando las revisiones y la API Heartbeat y así sucesivamente."
+
+#: admin/class-speed-booster-pack-admin.php:190
+msgid "Tweaks"
+msgstr "Retoques"
+
+#: admin/class-speed-booster-pack-admin.php:189
+msgid "This module has features for specific cases like CDN usage, localizing tracker scripts, adding custom JavaScript code and optimizations for some popular plugins."
+msgstr "Este módulo tiene características para casos específicos como el uso de CDN, localización de scripts de seguimiento, añadir código JavaScript personalizado y optimizaciones para algunos plugins populares."
+
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#: admin/class-speed-booster-pack-admin.php:189
+#: admin/class-speed-booster-pack-admin.php:1162
+#: admin/class-speed-booster-pack-admin.php:1169
+msgid "Special"
+msgstr "Especial"
+
+#: admin/class-speed-booster-pack-admin.php:188
+msgid "This module helps you optimize the static assets in your pages by minifying HTML and CSS, lazy loading media (images, videos and iframes), deferring JavaScript, optimizing Google fonts and preloading any asset you want."
+msgstr "Este módulo te ayuda a optimizar los activos estáticos en tus páginas minimizando HTML y CSS, cargando de forma diferida los medios (imágenes, videos e iframes), aplazando JavaScript, optimizando las fuentes de Google y precargando cualquier recurso que desees."
+
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#: admin/class-speed-booster-pack-admin.php:188
+#: admin/class-speed-booster-pack-admin.php:994
+#: admin/class-speed-booster-pack-admin.php:1150
+msgid "Assets"
+msgstr "Recursos"
+
+#: admin/class-speed-booster-pack-admin.php:187
+msgid "This module caches your pages into static HTML files, greatly reducing database queries. It also helps browsers cache static assets more efficiently."
+msgstr "Este módulo almacena en la caché tus páginas en archivos HTML estáticos, lo que reduce en gran medida las consultas de la base de datos. También ayuda a los navegadores a almacenar en la caché los activos estáticos de manera más eficiente."
+
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#: admin/class-speed-booster-pack-admin.php:187
+#: admin/class-speed-booster-pack-admin.php:469
+#: admin/class-speed-booster-pack-admin.php:548
+msgid "Caching"
+msgstr "Almacenamiento en caché"
+
+#. translators: %s = Speed Booster Pack
+#: admin/class-speed-booster-pack-admin.php:186
+msgid "Each module of this plugin has different sets of really cool features that can help speed up your website:"
+msgstr "Cada módulo de este plugin tiene diferentes conjuntos de características realmente interesantes que pueden ayudar a acelerar tu web:"
+
+#. translators: %s = Speed Booster Pack
+#: admin/class-speed-booster-pack-admin.php:181
+msgid "Features and benefits of %s"
+msgstr "Características y ventaja de %s"
+
+#. translators: 1. Speed Booster Pack 2. link to the speedboosterpack.com
+#. contact form 3. link to the GitHub page
+#: admin/class-speed-booster-pack-admin.php:176
+msgid "We're constantly adding new features to %1$s, and improving existing ones. While it's safe to use on live websites, there are a lot of moving parts and there's a chance that it might cause conflicts. After configuring %1$s, make sure you check your website as a visitor and confirm all's well. If you find a bug, you can let us know about it via our contact form on %2$s or create an issue on %3$s."
+msgstr "Estamos añadiendo constantemente nuevas características a %1$s y mejorando las existentes. Aunque es seguro su uso en webs en vivo, hay muchas partes móviles y existe la posibilidad de que puedan causar conflictos. Después de configurar %1$s, asegúrate de comprobar tu web como visitante y confirma que todo está bien. Si encuentras un fallo, puedes hacérnoslo saber a través de nuestro formulario de contacto en %2$s o crear un problema en %3$s."
+
+#: admin/class-speed-booster-pack-admin.php:171
+msgid "Heads up: This plugin is ALWAYS in beta!"
+msgstr "Aviso: ¡este plugin SIEMPRE está en versión beta!"
+
+#. translators: %s = Speed Booster Pack
+#: admin/class-speed-booster-pack-admin.php:167
+msgid "Thank you for installing %s! We really hope you'll like our plugin and greatly benefit from it. On this page, you'll find a small introduction to the plugin's features, and a few other things. Let's begin!"
+msgstr "¡Gracias por instalar %s! Realmente esperamos que te guste nuestro plugin y te beneficies mucho de él. En esta página, encontrarás una pequeña introducción a las características del plugin y algunas otras cosas. ¡Empecemos!"
+
+#. translators: %s = Speed Booster Pack
+#: admin/class-speed-booster-pack-admin.php:162
+msgid "Welcome to %s!"
+msgstr "¡Bienvenido a %s!"
+
+#: admin/class-speed-booster-pack-admin.php:153
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#. translators: 1: plugin name 2: opening tag for the hyperlink 3: closing tag
+#. for the hyperlink
+#: admin/class-speed-booster-pack-admin.php:146
+msgid "Thank you for using %1$s! If you like our plugin, be sure to %2$sleave a fair review%3$s."
+msgstr "¡Gracias por usar %1$s! Si te gusta nuestro plugin, asegúrate de %2$sdejar una valoración justa%3$s."
+
+#. Description of the plugin
+msgid "PageSpeed optimization is vital for SEO: A faster website equals better conversions. Optimize & cache your site with this smart plugin!"
+msgstr "La optimización de PageSpeed es vital para el SEO: una web más rápida equivale a mejores conversiones. ¡Optimiza y almacena en caché tu sitio con este plugin inteligente!"
+
+#. Plugin URI of the plugin
+msgid "https://speedboosterpack.com"
+msgstr "https://speedboosterpack.com"
+
+#: admin/class-speed-booster-pack-admin.php:1129
+msgid "Enter full URLs of the assets you want to preload. One URL per line."
+msgstr "Introduce las URLs completas de los activos que deseas precargar. Una URL por línea."
+
+#: admin/class-speed-booster-pack-admin.php:1114
+msgid "Preload assets"
+msgstr "Precargar los recursos"
+
+#: admin/class-speed-booster-pack-admin.php:1010
+msgid "Optimize Google Fonts"
+msgstr "Optimizar las fuentes de Google"
+
+#: admin/class-speed-booster-pack-admin.php:278
+msgid "Enable instant.page"
+msgstr "Activar instant.page"
+
+#: admin/class-speed-booster-pack-admin.php:961
+msgid "Inline all CSS"
+msgstr "Integrar todos los CSS"
+
+#: admin/class-speed-booster-pack-admin.php:977
+msgid "CSS exclusions"
+msgstr "Exclusiones CSS"
+
+#: admin/class-speed-booster-pack-admin.php:735
+msgid "Included Directories"
+msgstr "Directorios incluidos"
+
+#: admin/class-speed-booster-pack-admin.php:652
+msgid "30 minutes"
+msgstr "30 minutos"
+
+#: admin/class-speed-booster-pack-admin.php:375
+msgid "Autosave interval"
+msgstr "Intervalo de autoguardar"
+
+#: admin/class-speed-booster-pack-admin.php:362
+msgid "Limit post revisions"
+msgstr "Limitar las revisiones de entradas"
+
+#: admin/class-speed-booster-pack-admin.php:295
+msgid "Disable self pingbacks"
+msgstr "Desactivar los pingbacks propios"
+
+#: admin/class-speed-booster-pack-admin.php:613
+#: admin/class-speed-booster-pack-admin.php:1002
+msgid "Minify HTML"
+msgstr "Minimizar HTML"
+
+#: admin/class-speed-booster-pack-admin.php:721
+msgid "CDN"
+msgstr "CDN"
+
+#. translators: used like "Enable/Disable XXX" where "XXX" is the module name.
+#: admin/class-speed-booster-pack-admin.php:263
+#: admin/class-speed-booster-pack-admin.php:269
+msgid "General"
+msgstr "General"
+
+#. Author URI of the plugin
+msgid "https://optimocha.com"
+msgstr "https://optimocha.com"
+
+#. Author of the plugin
+msgid "Optimocha"
+msgstr "Optimocha"
+
+#. Plugin Name of the plugin
+msgid "Speed Booster Pack"
+msgstr "Speed Booster Pack"

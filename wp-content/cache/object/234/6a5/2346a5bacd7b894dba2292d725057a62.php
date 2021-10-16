@@ -1,0 +1,1 @@
+X‘ga<?php exit; ?>a:1:{s:7:"content";s:221:"a:2:{s:23:"elementor/elementor.php";a:2:{i:0;s:21:"Elementor\Maintenance";i:1;s:9:"uninstall";}s:44:"shortpixel-image-optimiser/wp-shortpixel.php";a:2:{i:0;s:28:"\ShortPixel\ShortPixelPlugin";i:1;s:15:"uninstallPlugin";}}";}
